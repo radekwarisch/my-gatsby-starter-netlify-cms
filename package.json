@@ -1,12 +1,8 @@
 {
-  "name": "gatsby-personal-starter-blog",
+  "name": "my-gatsby-starter-netlify-cms",
   "private": true,
-  "description": "A personal blog starter for a blog powered by Netlify CMS, based on the default blog starter",
-  "version": "1.0.0",
-  "author": "Thomas Wang <thomas@wang.sh>",
-  "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
-  },
+  "version": "0.0.1",
+  "author": "Radoslaw Warisch",
   "dependencies": {
     "@mdx-js/mdx": "^1.5.1",
     "@mdx-js/react": "^1.5.1",
